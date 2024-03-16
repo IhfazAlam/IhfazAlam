@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IhfazAlam
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, HTML, JavaSricpt and more.
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on my upcomming project.
 - 📫 reach me on the Gmail - experbdtwriter@gmail.com
   
 
