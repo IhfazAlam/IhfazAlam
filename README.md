@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ihfaz Alam</h1>
 <h3 align="center">A passionate HTML, CSS, JavaScript and Python!</h3>
 
-<img align="right" alt="coding" width="400" src="https://bit.ly/3vNl6dN">
 
+<img align="right" alt="coding" width="400" src="https://bit.ly/3vNl6dN">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <img align="left"> <img src="https://komarev.com/ghpvc/?username=ihfaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ihfaz-alam" /> </p>
 
