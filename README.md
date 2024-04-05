@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihfaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ihfaz-alam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihfaz-alam" alt="ihfaz-alam" /></a> </p>
-
 - 🔭 I’m currently working on [Tech Vault](https://github.com/Ihfaz-s-Organization/Tech-Vault.)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and Python!**
