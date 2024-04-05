@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ihfaz Alam</h1>
 <h3 align="center">A passionate HTML, CSS, JavaScript and Python!</h3>
 
-<img align="right" alt="coding" width="400" src="<h1 align="center">Hi 👋, I'm Ihfaz Alam</h1>
-<h3 align="center">A passionate HTML, CSS, JavaScript and Python!</h3>
+<img align="right" alt="coding" width="400" src="![Uploading image.png…]()
+">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihfaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ihfaz-alam" /> </p>
+<img align="left"> <img src="https://komarev.com/ghpvc/?username=ihfaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ihfaz-alam" /> </p>
 
 - 🔭 I’m currently working on [Tech Vault](https://github.com/Ihfaz-s-Organization/Tech-Vault.)
 
