@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **zarictg@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
+- 📫 How to reach me **zarictg@gmail.com**
 <p align="left">
 </p>
 
