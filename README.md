@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **zarictg@gmail.com**
 
-<h3 align="left">Connect with me: </h3>
-- 📫 How to reach me **zarictg@gmail.com**
+<h3 align="left">Connect with me: zarictg@gmail.com or (+880) 01763615547</h3>
 <p align="left">
 </p>
 
