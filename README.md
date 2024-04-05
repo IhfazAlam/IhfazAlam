@@ -1,3 +1,4 @@
+![logo](https://github.com/IhfazAlam/IhfazAlam/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ihfaz Alam</h1>
 <h3 align="center">A passionate HTML, CSS, JavaScript and Python!</h3>
 
