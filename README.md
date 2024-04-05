@@ -1,10 +1,13 @@
 ![logo](https://github.com/IhfazAlam/IhfazAlam/blob/main/GitHub%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ihfaz Alam</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?
+    font=Rightous&size=358center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ihfaz+Alam!;"/>
+</h1>
 <h3 align="center">A passionate HTML, CSS, JavaScript and Python!</h3>
 
 
+
 <img align="right" alt="coding" width="400" src="https://bit.ly/3vNl6dN">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <img align="left"> <img src="https://komarev.com/ghpvc/?username=ihfaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ihfaz-alam" /> </p>
 
