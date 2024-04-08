@@ -31,7 +31,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 - 📫 How to reach me **experbdtwriter@gmail.com**
 
-<h3 align="left">Connect with me: <br/><br/> zarictg@gmail.com or (+880) 01763615547</h3>
+<h3 align="left">Connect with me: (+880) 01763615547</h3>
 <p align="left">
 </p>
 
