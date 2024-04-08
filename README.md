@@ -29,7 +29,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/IhfazAlam?tab=repositories](https://github.com/IhfazAlam?tab=repositories)
 
-- 📫 How to reach me **zarictg@gmail.com**
+- 📫 How to reach me **experbdtwriter@gmail.com**
 
 <h3 align="left">Connect with me: <br/><br/> zarictg@gmail.com or (+880) 01763615547</h3>
 <p align="left">
