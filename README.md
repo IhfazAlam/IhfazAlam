@@ -20,7 +20,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 
 
-![Ihfaz Alam](https://github.com/IhfazAlam/IhfazAlam/assets/163456738/8f3d80bf-ca65-43d8-920d-fc08418ef924)
+<img scr="![Ihfaz Alam](https://github.com/IhfazAlam/IhfazAlam/assets/163456738/8f3d80bf-ca65-43d8-920d-fc08418ef924)">/>
 
 <img align="left"> <img src="https://komarev.com/ghpvc/?username=ihfaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ihfaz-alam" /> </p>
 
