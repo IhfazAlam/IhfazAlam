@@ -19,7 +19,8 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 <h3 align="center">A passionate HTML, CSS, JavaScript and Python!</h3>
 
 
-![Ihfaz Alam](https://github.com/IhfazAlam/IhfazAlam/assets/163456738/4e431b29-d862-409d-b4dd-1ab83ad1131b)
+
+https://github.com/IhfazAlam/IhfazAlam/assets/163456738/ab617717-db88-4e67-b86e-425632f451f9
 
 <img align="left"> <img src="https://komarev.com/ghpvc/?username=ihfaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ihfaz-alam" /> </p>
 
