@@ -1,4 +1,4 @@
-![logo](https://github.com/IhfazAlam/IhfazAlam/blob/main/IMG20230120213605-removebg-preview.jpg)
+![logo](https://github.com/IhfazAlam/IhfazAlam/blob/main/Purple%20White%20Orange%20Modern%20Geometric%20Digital%20Marketing%20Training%20Banner.png)
 [![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h3 align="center">
   Welcome to Ihfaz Alam's profile!
