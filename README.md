@@ -1,4 +1,4 @@
-![logo](https://github.com/IhfazAlam/IhfazAlam/blob/main/Ihfaz%20Alam.png)
+![logo](https://github.com/IhfazAlam/IhfazAlam/blob/main/IMG20230120213605-removebg-preview.jpg)
 [![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h3 align="center">
   Welcome to Ihfaz Alam's profile!
