@@ -32,7 +32,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 - 📫 How to reach me **experbdtwriter@gmail.com**
 
-<h3 align="left">Connect with me: (+880) 177-008-0128</h3>
+<h3 align="left">Contact with me: (+880) 177-008-0128</h3>
 <p align="left">
 </p>
 
