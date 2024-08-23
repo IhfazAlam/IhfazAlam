@@ -17,10 +17,10 @@ jobs:
 
     steps:
       # Checks out the repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # Generates the snake
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: IhfazAlam
@@ -29,7 +29,7 @@ jobs:
 
       # Push the changes to the 'output' branch
       - name: Commit and Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Generate snake"
           branch: output
