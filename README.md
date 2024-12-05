@@ -88,9 +88,10 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <a href="https://github.com/IhfazAlam?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
   
-<dev align="center">
-  ![snake gif](https://github.com/IhfazAlam/IhfazAlam/blob/output/github-snake-dark.svg)
-</dev>  
+<div align="center">
+  <img src="https://github.com/IhfazAlam/IhfazAlam/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
+ 
   
  <p align="center">
   <h1 align="center">Summary Of My Github Live Graph</h1>
