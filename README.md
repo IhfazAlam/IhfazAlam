@@ -16,7 +16,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
     font=Rightous&size=358center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ihfaz+Alam!;"/>
 </h1>
 
-<h3 align="center">A passionate HTML, CSS, JavaScript and Python!</h3>
+<h3 align="center">A passionate HTML, CSS, C#, JavaScript and Python!</h3>
 
 
 
@@ -24,9 +24,9 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 <img align="left"> <img src="https://komarev.com/ghpvc/?username=ihfaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ihfaz-alam" /> </p>
 
-- 🔭 I’m currently working on [Tech Vault](https://github.com/Ihfaz-s-Organization/Tech-Vault.)
+- 🔭 I’m currently working on develop a game.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Python!**
+- 🌱 I’m currently learning **HTML, CSS, C# JavaScript and Python!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IhfazAlam?tab=repositories](https://github.com/IhfazAlam?tab=repositories)
 
