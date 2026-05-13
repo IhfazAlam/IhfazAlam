@@ -2,7 +2,7 @@
 [![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h3 align="center">
   Welcome to Ihfaz Alam's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://github.com/rudrabarad/Gifs" width="28">
 </h3>
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
