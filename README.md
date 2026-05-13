@@ -2,7 +2,7 @@
 [![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h3 align="center">
   Welcome to Ihfaz Alam's profile!
-  <img src="https://github.com/rudrabarad/Gifs" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
@@ -22,7 +22,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 <img align="right" alt="Ihfaz" width="500" height="300" src="https://github.com/IhfazAlam/IhfazAlam/blob/main/Ihfaz%20Alam.gif">
 
-<img align="left"> <img src="https://komarev.com/ghpvc/?username=ihfaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ihfaz-alam" /> </p>
+<img align="left"> <img src="https://github.com/rudrabarad/Gifs" alt="ihfaz-alam" /> </p>
 
 - 🔭 I’m currently working on develop a game.
 
