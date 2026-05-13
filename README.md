@@ -16,7 +16,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
     font=Rightous&size=358center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ihfaz+Alam!;"/>
 </h1>
 
-<h3 align="center">A passionate HTML, CSS, C#, JavaScript and Python!</h3>
+<h3 align="center">A passionate C, HTML, CSS, C#, C++ and Python!</h3>
 
 
 
