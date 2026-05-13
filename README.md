@@ -20,9 +20,9 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 
 
-<img align="right" alt="Ihfaz" width="500" height="300" src="https://github.com/IhfazAlam/IhfazAlam/blob/main/Ihfaz%20Alam.gif">
+<img align="right" alt="Ihfaz" width="500" height="300" src="https://github.com/rudrabarad/Gifs">
 
-<img align="left"> <img src="https://github.com/rudrabarad/Gifs" alt="ihfaz-alam" /> </p>
+<img align="left"> <img src="https://komarev.com/ghpvc/?username=ihfaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="ihfaz-alam" /> </p>
 
 - 🔭 I’m currently working on develop a game.
 
