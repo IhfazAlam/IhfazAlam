@@ -8,7 +8,7 @@
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There👋,+I+am+Ihfaz+Alam!;I'm+a+Junior+Programmer.;"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There👋,+I+am+Ihfaz+Alam!;I'm+a+Professional+Programmer.;"></a>
   </h2>
  
 <h1 align="center">
